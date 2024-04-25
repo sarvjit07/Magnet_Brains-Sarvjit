@@ -1,4 +1,5 @@
 NAME: SARVJIT KUMAR GUPTA
+Email: sarvjit1309@gmail.com
 Website Name: Task Master
 Live link: https://task-master-client96.web.app/
 Features:
